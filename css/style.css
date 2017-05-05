@@ -5,13 +5,17 @@ img {
   display: block; }
 
 .uenmedia {
+  text-align: center;
+  background: #eee;
+  padding: 30px; }
+
+ul li {
+  list-style: none;
+  display: inline;
+  margin: 0 1em 0 1em;
   text-align: center; }
-  .uenmedia ul li {
-    list-style: none;
-    display: inline;
-    margin: 0 1em 0 1em;
-    text-align: center; }
-    .uenmedia ul li a {
-      font-family: "ff-meta-web-pro",sans-serif;
-      font-weight: normal;
-      font-size: 22px; }
+
+a {
+  font-family: "ff-meta-web-pro", sans-serif;
+  font-weight: normal;
+  font-size: 22px; }
